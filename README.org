@@ -1,0 +1,11 @@
+#+TITLE: Sample code for sharing
+#+AUTHOR: Kynon JM Benjamin
+
+This is a repository for sharing example code.
+
+* Sample Code
+| Utility                 | File Name                         | Environment |
+|-------------------------+-----------------------------------+-------------|
+| differential expression | qSV_ethnicity_genes_caudate.ipynb | R           |
+|                         | sva_ethnicity_genes_caudate.ipynb | R           |
+
