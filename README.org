@@ -4,8 +4,9 @@
 This is a repository for sharing example code.
 
 * Sample Code
-| Utility                 | File Name                         | Environment |
+| Directory               | File Name                         | Environment |
 |-------------------------+-----------------------------------+-------------|
 | differential expression | qSV_ethnicity_genes_caudate.ipynb | R           |
 |                         | sva_ethnicity_genes_caudate.ipynb | R           |
+| heatmaps                | heatmap_plots.ipynb               | Python      |
 
